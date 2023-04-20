@@ -1,0 +1,10 @@
+113.ASP.NET CORE FLUENT API-1 : Getting Started
+- Fluent API is used for mapping database and model. more than anotations fluent api has features, fluent api also have highest presedence.
+- Change Table Name using DataContext class.
+
+114.ASP.NET CORE FLUENT API-2 : Configure one-to-many relationship with cascade example
+- Use in DataContext, after deletion of department record see the result of deletion Users(Cascade) also. using FLUENT API.
+
+115.ASP.NET CORE FLUENT API-3 :Configure one-to-many relationship with ON DELETE Set Null, Restrict
+- Its said NoSql/Set to Null by making our Model User DepartmentId propeties null type and using Fluent API also.
+- 
